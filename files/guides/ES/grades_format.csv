@@ -1,0 +1,11 @@
+email,ID_activity_1,ID_activity_2,...,ID_activity_n
+estudiante_1@correo.com,10,9.6,...,10
+estudiante_2@correo.com,8.9,,...,7.2
+...,...,...,..,...
+estudiante_n@correo.com,10,9.5,...,8.3
+,,,,
+Notas:,,,,
+Se puede subir una o varias actividades y uno o varios estudiantes.,,,,
+El ID de la actividad puede ser cualquier nombre (ejemplo Glosario_1 o Examen_U3) de los ID con peso en el archivo activities_format.csv ,,,,
+"El separador decimal es el punto "".""",,,,
+Borrar las notas,,,,

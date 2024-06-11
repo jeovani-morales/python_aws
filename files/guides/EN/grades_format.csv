@@ -1,0 +1,11 @@
+email,ID_activity_1,ID_activity_2,...,ID_activity_n
+student_1@mail.com,10,9.6,...,10
+student_2@mail.com,8.9,,...,7.2
+...,...,...,..,...
+student_n@mail.com,10,9.5,...,8.3
+,,,,
+Notes:,,,,
+You can upload one or more activities and one or more students.,,,,
+The activity ID can be any name (e.g. Glossary_1 or Exam_U3) from the ID's weighted in the activities_format.csv file. ,,,,
+The decimal separator is the dot '.',,,,
+Delete all note lines.,,,,

@@ -1,0 +1,24 @@
+_id,name,section,week,weight,visible,category
+G_PRESENETACION_ASIGNATURA,Presentacion de la asignatura,General,1,,,
+T1_GLOSARIO,Glosario T1,Tema 1,1,0.5,,PORTFOLIO_1
+T1_CUESTIONARIO,Cuestionario T1,Tema 1,2,0.5,,PORTFOLIO_1
+PRUEBA_1,Examen del tema 1,Tema 1,2,0.35,1,PRACTICE
+T1_ENCUESTA,Encuesta del tema 1,Tema 1,3,,,
+T2_PROBLEMAS,Relacion de problemas: computo,Tema 2,3,0.7,1,PORTFOLIO_2
+T2_EJERCICIOS_CAPSULAS,Valida los ejercicios Capsulas 1 y 2,Tema 2,4,0.3,1,PORTFOLIO_2
+PRUEBA_2,Examen del tema 2,Tema 2,4,0.65,1,PRACTICE
+T2_ENCUESTA,Encuesta del tema 2,Tema 2,5,,,
+PORTFOLIO_1,,,,0.3,1,THEORY
+PORTFOLIO_2,,,,0.6,1,THEORY
+TEORIA,,,,0.5,1,SUBJECT
+PRACTICA,,,,0.5,1,SUBJECT
+,,,,,,
+,,,,,,
+Notas:,,,,,,
+El separador decimal es el punto ¥.¥,,,,,,
+"Todas las actividades deben tener una seccion, menos las que son categorias.",,,,,,
+"La columna 'visible' 1 o  0, indica si la calificacion se mostrara al alumno al generar el reporte de calificaciones. (Podri≠a solo mostrar la informacion de cada categoria o de todas las actividades  junto con su categoria)  ",,,,,,
+Solo las actividades que se evaluan para la calificacion final deben tener categoria (as√≠ mismo las categorias para saber a que categoria padre pertenecen),,,,,,
+"Cada categoria debe estar tambien en la columna ID, expeto SUBJECT que es la categoria Superior.",,,,,,
+La suma final del peso de las actividades internas de cada categoria debe ser 1.,,,,,,
+Borrar todas las lineas de notas.,,,,,,

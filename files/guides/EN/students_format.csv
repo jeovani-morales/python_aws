@@ -1,0 +1,10 @@
+email,first_name,last_name,username,planet
+student_1@domain.com,first_name_1,last_name_1,,Jupiter
+student_2@mail.com,first_name_2,last_name_2,username_2,
+student_3@institution.com,first_name_3,last_name_3,user_name_3,Venus
+student_4@mail.es,first_name_4,last_name_4,,
+,,,,
+Notes:,,,,
+The columns username and planet may be empty but they must be.,,,,
+If the username column is empty. The student will be asked to register with their email (must match the one in this list).,,,,
+Delete all note lines.,,,,

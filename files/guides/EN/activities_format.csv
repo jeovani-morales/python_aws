@@ -1,0 +1,25 @@
+_id,name,section,week,weight,Visible,Category
+G_COURSE PRESENTATION,Subject presentation,General,1,,,
+T1_GLOSSARY,Glossary T1,Topic 1,1,0.5,,PORTFOLIO_1
+T1_QUESTIONNAIRE,Questiannaire T1,Topic 1,2,0.5,,PORTFOLIO_1
+TEST_1,Test Topic 1,Topic 1,2,0.35,1,PRACTICE
+T1_SURVEY,TOPIC 1 SURVEY,Topic 1,3,,,
+T2_PROBLEMS,Problem list T2,Topic 2,3,0.5,1,PORTFOLIO_2
+T2_CAPSULE_EXERCISES,Validate the exercises Capsules 1 and 2,Topic 2,4,0.5,1,PORTFOLIO_2
+TEST_2,Test Topic 2,Topic 2,4,0.65,1,PRACTICE
+T2_SURVEY,TOPIC 1 SURVEY,Topic 2,5,,,
+PORTFOLIO_1,,,,0.3,1,THEORY
+PORTFOLIO_2,,,,0.6,1,THEORY
+THEORY,,,,0.5,1,SUBJECT
+PRACTICE,,,,0.5,1,SUBJECT
+,,,,,,
+,,,,,,
+Notes:,,,,,,
+The decimal separator is the dot '.',,,,,,
+"All activities must have a section, except those that are categories.",,,,,,
+The 'visible' column indicates whether the grade will be shown to the student when generating the grade report. (You can show only the information for each category or for all the activities along with their category)  ,,,,,,
+Only the activities that are evaluated for the final grade must have a category (as well as the categories to know which parent category they belong to).,,,,,,
+"Each category must also be in the ID column, except SUBJECT which is the top category.",,,,,,
+The final sum of the weight of the internal activities of each category must be 1.,,,,,,
+"All activities must have a section, but only those that are evaluated for the final grade must have a category.",,,,,,
+Delete all note lines.,,,,,,

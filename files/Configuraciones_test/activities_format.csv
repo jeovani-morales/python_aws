@@ -1,0 +1,53 @@
+_id,name,section,week,weight,visible,category
+FC_QUESTIONNAIRE_CCV_1,First answer to the Virtual Communication Competences questionnaire,FC-ML,1,,,
+FC_CAPSULE_0,Capsule 0,FC-ML,1,,,
+G_DOCUMENTATION,Documentation to download,General,1,,,
+G_SUBJECT_PRESENTATION,Presentation of the subject,General,1,,,
+G_E-RESOURCES,Electronic Resources,General,1,,,
+G_BOARD,Notice board,General,1,,,
+FC_CAPSULE_1,Capsule 1,FC-ML,2,,,
+G_SEMINAR_PRADO,Opinion poll Seminar,General,2,,,
+T1_TRANSPARENCIES,Topic 1 Transparencies,Topic 1,2,,,
+T1_GLOSSARY,Topic 1 Glossary,Topic 1,3,,0,
+FC_CAPSULE_2,Capsule 2,FC-ML,3,,,
+T1_VALIDATION_CAPSULE_1_2,Validation Questionnaire Capsule 1 and 2,Topic 1,4,0.111111111,1,PORTFOLIO
+T1_PROYECTO,Topic 1 Project,Topic 1,4,0.111111111,1,PORTFOLIO
+FC_CAPSULA_3,Capsule 3,FC-ML,4,,,
+T1_CUESTIONARIO,Topic 1 Questionnaire,Topic 1,5,0.111111111,1,PORTFOLIO
+FC_CAPSULA_4,Capsule 4,FC-ML,5,,,
+T2_TRANSPARENCIES,Topic 2 Transparencies,Topic 2,5,,,
+TEST_1,First theory test (classroom),Evaluation,6,0.25,1,THEORY
+T2_GLOSSARY,Topic 2 Glossary,Topic 2,6,,0,
+T2_PROYECT,Topic 2 Project,Topic 2,6,0.111111111,1,PORTFOLIO
+FC_CAPSULE_5,Capsule 5,FC-ML,6,,,
+T2_QUESTIONNAIRE,Topic 2 Questionnaire,Topic 2,7,0.111111111,1,PORTFOLIO
+FC_CAPSULE_6,Capsule 6,FC-ML,7,,,
+ML_ATTENDANCE,,FC-ML,8,0.6,,FC-ML-TELEGRAM
+FC_ML_QUESTIONNAIRE,Questionnaire of satisfaction with the FC-ML experience,FC-ML,10,0.1,,FC-ML-TELEGRAM
+ML_GRADE_CLASSMATES,,FC-ML,10,0.1,,FC-ML-TELEGRAM
+FC_QUESTIONNAIRE_CCV_2,Second answer to the Virtual Communication Skills questionnaire,FC-ML,10,0.1,,FC-ML-TELEGRAM
+T3_GLOSSARY,Topic 3 Glossary,Topic 3,10,,0,
+T3_PROYECT,Topic 3 Project,Topic 3,10,0.111111111,1,PORTFOLIO
+T3_TRANSPARENCIES,Topic 3 Transparencies,Topic 3,10,,,
+TEST_2,Second theory test (classroom),Evaluation,11,0.25,1,THEORY
+T3_REVIEW_QUESTIONNAIRE_2_3,Review Questionnaire Topics 2 and 3,Topic 3,11,0.111111111,1,PORTFOLIO
+T5_TRANSPARENCIES, Topic 5 Transparencies,Topic 5,11,,,
+EVALUATE_SELF_EVALUATION,Student self-evaluation questionnaire,LDM-bot,11,0.1,,FC-ML-TELEGRAM
+T3_QUESTIONNAIRE,Topic 3 Questionnaire,Topic 3,12,0.111111111,1,PORTFOLIO
+T4_GLOSSARY,Topic 4 Glossary,Topic 4,12,,0,
+T4_TRANSPARENCIES,Topic 4 Transparencies,Topic 4,12,,,
+TEACHER_OPINION,,LDM-bot,13,,,
+CLASSMATES_OPINION,,LDM-bot,13,,,
+RESOURCES_OPINION,,LDM-bot,13,,,
+T4_QUESTIONNAIRE,Topic 4 Questionnaire,Topic 4,13,0.111111111,1,PORTFOLIO
+FC-ML-TELEGRAM,,Evaluation,13,0.2,1,THEORY
+PORTFOLIO,,Evaluation,14,0.1,1,THEORY
+TEST_3,Third written test of (online) theory,Evaluation,15,0.2,1,THEORY
+THEORY,,,,1,,SUBJECT
+ML_MEETING_0,,,,,,
+ML_MEETING_1,,,,0.166666667,,ML_ATTENDANCE
+ML_MEETING_2,,,,0.166666667,,ML_ATTENDANCE
+ML_MEETING_3,,,,0.166666667,,ML_ATTENDANCE
+ML_MEETING_4,,,,0.166666667,,ML_ATTENDANCE
+ML_MEETING_5,,,,0.166666667,,ML_ATTENDANCE
+ML_MEETING_6,,,,0.166666667,,ML_ATTENDANCE

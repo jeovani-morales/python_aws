@@ -1,0 +1,53 @@
+_id,name,section,week,weight,visible,category
+FC_QUESTIONNAIRE_CCV_1,First response to the Virtual Communication Competencies Questionnaire,FC-ML,1,0,0,
+FC_CAPSULE_0,Complete Capsule 0 Resources,FC-ML,1,0,0,
+G_DOCUMENTATION,Documentation to download,GENERAL,1,0,0,
+G_COURSE_PRESENTATION,Course Presentation,GENERAL,1,0,0,
+G_E_RESOURCES,Electronic Resources,GENERAL,1,0,0,
+G_BOARD,Notice Board,GENERAL,1,0,0,
+FC_CAPSULE_1,Complete Resources Capsule 1,FC-ML,2,0,0,
+G_PRADO_SEMINAR,Prado Seminar Feedback Survey,GENERAL,2,0,0,
+T1_TRANSPARENCIES,Topic 1 Transparencies,TOPIC 1,2,0,0,
+T1_GLOSSARY,Topic 1 Glossary,TOPIC 1,3,0,0,
+FC_CAPSULE_2,Complete Resources Capsule 2,FC-ML,3,0,0,
+T1_VALIDATE_CAPSULE_EXERCISES_1_2,Validation Questionnaire Capsules 1 and 2,TOPIC 1,4,0.111111111,1,PORTFOLIO
+T1_PROYECT,Topic 1 Project,TOPIC 1,4,0.111111111,1,PORTFOLIO
+FC_CAPSULE_3,Complete Resources Capsule 3,FC-ML,4,0,0,
+T1_QUESTIONNAIRE,Topic 1 Quiz,TOPIC 1,5,0.111111111,1,PORTFOLIO
+FC_CAPSULE_4,Complete Resources Capsule 4,FC-ML,5,0,0,
+T2_TRANSPARENCIES,Topic 2 Transparencies,TOPIC 2,5,0,0,
+TEST_1,First Theory Test (classroom),EVALUATION,6,0.25,1,THEORY
+T2_GLOSSARY,Topic 2 Glossary,TOPIC 2,6,0,0,
+T2_PROYECT,Topic 2 Project,TOPIC 2,6,0.111111111,1,PORTFOLIO
+FC_CAPSULE_5,Complete Resources Capsule 5,FC-ML,6,0,0,
+T2_QUESTIONNAIRE,Topic 2 Quiz,TOPIC 2,7,0.111111111,1,PORTFOLIO
+FC_CAPSULE_6,Complete resources Capsule 6,FC-ML,7,0,0,
+ML_ATTENDANCE,Attendance at meetings,FC-ML,8,0.6,0,FC_ML_TELEGRAM
+OPN_TEACHER,Teacher feedback process,LDM-BOT,9,0,0,
+OPN_CLASSMATES,Opinion process about the classmates of the planet,LDM-BOT,9,0,0,
+OPN_RESOURCES,Opinion process on the resources of the course,LDM-BOT,9,0,0,
+FC_ML_QUESTIONNAIRE,Questionnaire of satisfaction with FC-ML experience,FC-ML,10,0.1,0,FC_ML_TELEGRAM
+ML_EVALUATE_CLASSMATE,Evaluate in @EDUtrack,FC-ML,10,0.1,0,FC_ML_TELEGRAM
+FC_QUESTIONNAIRE_CCV_2,Second response to the Virtual Communication Competences questionnaire,FC-ML,10,0.1,0,FC_ML_TELEGRAM
+T3_GLOSSARY,Theme 3 Glossary,TOPIC 3,10,0,0,
+T3_PROYECT,Topic 3 Project,TOPIC 3,10,0.111111111,1,PORTFOLIO
+T3_TRANSPARENCIES,Transparencies of Topic 3,TOPIC 3,10,0,0,
+TEST_2,Second theory test (face-to-face),EVALUATION,11,0.25,1,THEORY
+T3_QUESTIONNAIRE_REPASO_2_3,Review questionnaire Topics 2 and 3,TOPIC 3,11,0.111111111,1,PORTFOLIO
+T5_TRANSPARENCIES,Transparencies of Topic 5,TOPIC 5,11,0,0,
+EVA_AUTO-EVALUATION,Student's self-evaluation questionnaire,LDM-BOT,11,0.1,0,FC_ML_TELEGRAM
+T3_QUESTIONNAIRE,Topic 3 Quiz,TOPIC 3,12,0.111111111,1,PORTFOLIO
+T4_GLOSSARY,Glossary of Topic 4,TOPIC 4,12,0,0,
+T4_TRANSPARENCIES,Topic 4 Transparencies,TOPIC 4,12,0,0,
+T4_QUESTIONNAIRE,Topic 4 Quiz,TOPIC 4,13,0.111111111,1,PORTFOLIO
+T5_PROJECT,,,,,,
+FC_ML_TELEGRAM,Activity on the TELEGRAM planets,EVALUATION,13,0.2,1,THEORY
+PORTFOLIO,Activity on the PRADO platform,EVALUATION,14,0.1,1,THEORY
+TEST_3,Third written theory test (online),EVALUATION,15,0.2,1,THEORY
+THEORY,Theory course activities,,0,1,0,SUBJECT
+ML_MEETING_1,,,,,,
+ML_MEETING_2,,,,,,
+ML_MEETING_3,,,,,,
+ML_MEETING_4,,,,,,
+ML_MEETING_5,,,,,,
+ML_MEETING_6,,,,,,

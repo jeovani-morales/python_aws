@@ -1,0 +1,10 @@
+email,first_name,last_name,username,planet
+estudiante_1@dominio.com,nombre_1,apellido_1,,Jupiter
+estudiante_2@correo.com,nombre_2,apellido_2,username_2,
+estudiante_3@institucion.com,nombre_3,apellido_3,user_name_3,Venus
+estudiante_4@correo.es,nombre_4,apellido_4,,
+,,,,
+Notas:,,,,
+Las columnas username y planet pueden estar vacias pero deben estar.,,,,
+Si la columna username esta vacia. Se le pediria al estudiante su correo para el registro (debe conincidir con el de esta lista).,,,,
+Borrar las todas las filas de notas.,,,,

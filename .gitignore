@@ -1,0 +1,5 @@
+pipfile
+Pipfile.lock
+myenv\*
+*\myenv\*
+*.zip
